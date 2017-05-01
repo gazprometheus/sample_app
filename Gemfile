@@ -13,7 +13,7 @@ gem 'turbolinks'
 gem 'jbuilder'
 
 #for Heroku deployments
-gem 'rack-timeout', '0.3.2',
+gem 'rack-timeout', '0.3.2'
 gem 'fog'
 
 gem 'sdoc', group: :doc
